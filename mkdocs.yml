@@ -1,0 +1,10 @@
+site_name: Monsters Docs
+nav:
+  - Home: index.md
+  - Services:
+    - Gateway: 'services/gateway.md'
+    - Messages: 'services/messages.md'
+    - Users: 'services/users.md'
+theme:
+  name: material
+  font: false
